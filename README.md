@@ -1,4 +1,5 @@
-<h1 align="center">Olá 👋, Eu sou o Vinicius Souza</h1>
+<h1 align="center">Bem vindo!</h1>
+<h2 align="center">Meu nome é Vinicius Souza</h2>
 <h3 align="center">Desenvolvedor Back End Java Jr</h3>
 
 <h3 align="left">Conecte-se comigo:</h3>
